@@ -57,38 +57,40 @@ Each pattern includes:
 
 ## 📂 Project Structure
 
-design-patterns-go/
-│
-├── Creational/
-│ ├── AbstractFactory/
-│ ├── BuilderPattern/
-│ ├── FactoryMethod/
-| ├── PrototypePattern/
-| └── SingletonPattern
-|
-│
-├── Structual/
-│ ├── AdapterPattern/
-│ ├── BridgePattern/
-│ ├── CompositePattern/
-│ ├── DecoratorPattern/
-│ ├── DataMapperPattern/
-│ ├── FacadePattern/
-│ ├── FlyweightPattern/
-│ └── ProxyPattern
-|
-│
-└── Behavioral/
-├── ChainOfResponsibilityPattern/
-├── CommandPattern/
-├── IteratorPattern/
-├── MediatorPattern/
-├── MementoPattern/
-├── ObserverPattern/
-├── StatePattern/
-├── StrategyPattern/
-├── TemplateMethodPattern/
-└── VisitorPattern
+```
+    design-patterns-go/
+    │
+    ├── Creational/
+    │ ├── AbstractFactory/
+    │ ├── BuilderPattern/
+    │ ├── FactoryMethod/
+    | ├── PrototypePattern/
+    | └── SingletonPattern
+    |
+    │
+    ├── Structual/
+    │ ├── AdapterPattern/
+    │ ├── BridgePattern/
+    │ ├── CompositePattern/
+    │ ├── DecoratorPattern/
+    │ ├── DataMapperPattern/
+    │ ├── FacadePattern/
+    │ ├── FlyweightPattern/
+    │ └── ProxyPattern
+    |
+    │
+    └── Behavioral/
+    ├── ChainOfResponsibilityPattern/
+    ├── CommandPattern/
+    ├── IteratorPattern/
+    ├── MediatorPattern/
+    ├── MementoPattern/
+    ├── ObserverPattern/
+    ├── StatePattern/
+    ├── StrategyPattern/
+    ├── TemplateMethodPattern/
+    └── VisitorPattern
+```
 
 ---
 
