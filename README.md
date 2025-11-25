@@ -98,7 +98,7 @@ Each pattern includes:
 
 ### **Clone the repo**
 ```bash
-git clone https://github.com/<Kaveh-Goodarzi>/<DesignPatterns-in-golang>.git
-cd <DesignPatterns-in-golang>
+git clone https://github.com/Kaveh-Goodarzi/DesignPatterns-in-golang.git
+cd DesignPatterns-in-golang
 ```
 
