@@ -84,6 +84,7 @@ Each pattern includes:
     ├── CommandPattern/
     ├── IteratorPattern/
     ├── MediatorPattern/
+    ├── MediatorPattern/
     ├── MementoPattern/
     ├── ObserverPattern/
     ├── StatePattern/
